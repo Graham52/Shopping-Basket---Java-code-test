@@ -23,8 +23,8 @@ public class DiscountTest {
     public void before(){
         shoppingBasket = new ShoppingBasket();
         bagpipes1 = new Bagpipes("Bagpipes", 950.00);
-        bagpipes1 = new Bagpipes("Bagpipes", 950.00);
-        bagpipes1 = new Bagpipes("Bagpipes", 950.00);
+        bagpipes2 = new Bagpipes("Bagpipes", 950.00);
+        bagpipes3 = new Bagpipes("Bagpipes", 950.00);
         table1 = new Table("Table", 150.00);
         table2 = new Table("Table", 150.00);
         bogof = new Bogof();
